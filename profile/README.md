@@ -12,7 +12,8 @@ Ether is a Discord bot with a bit of a 50s vibe (maybe that explains why you're 
 
 Unfortunately it is still in development but it is intended to be entirely free and wants to remain open source. To help him in this difficult task, you can contribute to the different repositories of this organization or make a small tip 👀.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y7DH7YN)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y7DH7YN) <br>
+[![patreon](https://user-images.githubusercontent.com/67459553/206045259-8ef56c71-ea94-4bb2-ab7d-9720ce62e49e.png)](https://www.patreon.com/bePatron?u=81310310)
 
 Ether plans to become an online bot accessible to everyone. Maybe one day we'll get there...
 
