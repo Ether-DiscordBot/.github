@@ -1,9 +1,3 @@
-<div align="center">
-    <a href="https://github.com/Ether-DiscordBot/">
-        <img src="https://i.imgur.com/OCnNAsO.png" alt="Ether - Bot">
-    </a>
-</div>
-
 # Hi there 👋
 
 If you've crossed a gap in the space-time continuum and ended up here, don't panic.
